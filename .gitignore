@@ -1,0 +1,12 @@
+.env
+
+.DS_Store
+node_modules
+yarn-error.log
+
+#Hardhat files
+cache/
+artifacts/
+keys/
+!keys/deployer.example.ts
+deployments/
